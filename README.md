@@ -2,7 +2,7 @@
 - 🌎 I’m interested in C#, Java, MSSQL, .Net Core, Android and politics, society and the future.
 - 📱 I’m currently working as freelancer (one person company) and planning a secure endpoint 2 entpoint chat.
 - 👓 I’m looking to collaborate on reviews for other repositories and projects.
-- 💻 All my social media, development and legalweblinks: [heinrichelsigan.area23.at](https://heinrichelsigan.area23.at/)
+- 💻 All my social media, development and legal weblinks: [heinrichelsigan.area23.at](https://heinrichelsigan.area23.at/)
 - 🕮 Read my blog here: [blog.area23.at](https://area23-at.blogspot.com/)
 - 🛠 Samples from my repositories: [area23.at/net/](https://area23.at/net/)
 - 🔗 LinkedIn: [linkedin.com/in/heinrichelsigan](https://www.linkedin.com/in/heinrichelsigan/)
