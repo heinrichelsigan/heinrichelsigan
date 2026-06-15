@@ -5,7 +5,6 @@
 - 💻 All my social media, development and legal weblinks: [heinrichelsigan.area23.at](https://heinrichelsigan.area23.at/)
 - 🕮 Read my blog here: [blog.area23.at](https://area23-at.blogspot.com/)
 - 🛠 Samples from my repositories: [area23.at/net/](https://area23.at/net/)
-- 🔗 LinkedIn: [linkedin.com/in/heinrichelsigan](https://www.linkedin.com/in/heinrichelsigan/)
 - 🤵 Facebook: [facebook.com/heinrichelsigan.area23.at](https://www.facebook.com/heinrichelsigan.area23.at)
 - 🛠  StackOverflow: [stackoverflow.com/users/12213151/heinrich-elsigan](https://stackoverflow.com/users/12213151/heinrich-elsigan?tab=profile)
 - 📘 Curriculum vitae: [heinrichelsigan.area23.at/cv](https://drive.google.com/file/d/1-QIu8CFtnEKeYSVarKKrDL_e5aofg9Zh/view?usp=drive_link)
